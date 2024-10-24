@@ -1,3 +1,5 @@
+window.alert('Selamat datang di portfolio ku');
+
 // Navbar Fixed
 window.onscroll = function() {
     const header = document.querySelector('header');
